@@ -1,0 +1,2 @@
+# Berra-Kocer
+junior devoloper
